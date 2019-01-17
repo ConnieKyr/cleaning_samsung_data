@@ -2,10 +2,10 @@
 ######################
 ####
 ##
-README
+###README
 
 #####################
-file: run_analysis.R
+##file: run_analysis.R
 
 Description:
 The script reads all the relevant files from the Samsung smartphones data and does the following operations:
@@ -20,12 +20,12 @@ The Samsung data has to be in the same folder.
 Even more detailed descriptions of the code oraganised per section can be found in the comments of the script run_analysis.R
 
 #######################
-file: codebook.md
+##file: codebook.md
 
 Description: The data, the variable descriptions and the transformations and calculations that were done by the run_analysis.R script are described in the file codebook.md
 
-#####################
-Additional files:
+#######################
+##Additional files:
 
 files related to the Human Activity Recognition Using Smartphones Dataset
 Version 1.0

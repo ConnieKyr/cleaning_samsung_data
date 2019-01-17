@@ -27,9 +27,16 @@ Description: The data, the variable descriptions and the transformations and cal
 
 ===========
 
-## Additional files:
+## file: summarizingTable.txt
+
+Description: the output file from the script run_analysis.R
+
+===========
+
+## Additional files that will be needed:
 
 files related to the Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 
 Description: The relevant files are described in the codebook.md file.
+The assumption is made that they already exist in the working directory as per the assignment instructions.
